@@ -9,7 +9,7 @@ A lightweight turn-based Python RPG optimized for low-end hardware
 
 ## 💾 Где скачать готовый .exe:
 * **Dustore (RU):** https://dustore.ru/
-* **Itch.io (Global):** https://itch.io/
+* **Itch.io (Global):** https://arckadia.itch.io/the-world-manile
 
 ## 💻 Системные требования:
 * **ОС:** Windows XP / 7 / 8 / 10 / 11
